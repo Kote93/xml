@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2017-07-21 10:28">
+  <shop>
+    <name>OZON.ru</name>
+    <company>ООО "Интернет Решения"</company>
+    <url>https://www.ozon.ru/</url>
+    <currencies>
+      <currency id="RUR" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1141441">Отечественная фантастика</category>
+    </categories>
+    <offers>
+      <offer id="135899775" type="book" available="true" group_id="135899775">
+        <url>https://www.ozon.ru/context/detail/id/135899775/?from=prt_xml_facet</url>
+        <price>289</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1141441</categoryId>
+        <picture>https://mmedia.ozone.ru/multimedia/1014428005.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>279</local_delivery_cost>
+        <author>Михаил Успенский, Андрей Лазарчук</author>
+        <name>Весь этот Джакч. Соль Саракша</name>
+        <publisher>Бестселлер</publisher>
+        <series>Пятый Рим,Весь этот джакч</series>
+        <year>2016</year>
+        <ISBN>978-5-9907593-0-5</ISBN>
+        <language>Русский</language>
+        <binding>140x210</binding>
+        <page_extent>254</page_extent>
+        <description>"Соль Саракша" - первая книга из новой трилогии "Весь этот джакч" популярных писателей-фантастов Михаила Успенского и Андрея Лазарчука, не раз выступавших в соавторстве.Идея создания трилогии родилась в рамках межавторского цикла "Обитаемый остров", объединенного желанием современных авторов продолжить/дополнить сюжет или развить образы эпизодических героев ставшего культовым романа Аркадия и Бориса Стругацких.Действие книги разворачивается в мире "Обитаемого острова" Стругацких, на планете Саракш, а точнее - в Верхнем Бештоуне, что на самой границе с Пандеей. Именно здесь осуществляется стратегически важная добыча горной соли, отчего небольшой городок солекопов становится средоточием самых разных сил, преследующих различные цели.</description>
+        <sales_notes>Быстрая доставка по России. 20 способов оплаты</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <barcode>9785990759305</barcode>
+        <weight>0.175</weight>
+        <dimensions>22.000/15.000/10.000</dimensions>
+        <param name="Тип обложки (Переплет)">Обложка с клапанами</param>
+        <param name="Тираж">3000</param>
+        <param name="Тип издания">Отдельное издание</param>
+        <param name="Автор">Михаил Успенский,Лазарчук Андрей Геннадьевич</param>
+        <param name="Вес" unit="г">175</param>
+        <param name="Ширина упаковки" unit="мм">150</param>
+        <param name="Высота упаковки" unit="мм">100</param>
+        <param name="Глубина упаковки" unit="мм">220</param>
+      </offer>
+      <offer id="136647585" type="book" available="true" group_id="136647585">
+        <url>https://www.ozon.ru/context/detail/id/136647585/?from=prt_xml_facet</url>
+        <price>259</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1141441</categoryId>
+        <picture>https://mmedia.ozone.ru/multimedia/1015223186.jpg</picture>
+        <picture>https://mmedia.ozone.ru/multimedia/1016419570.jpg</picture>
+        <picture>https://mmedia.ozone.ru/multimedia/1016419578.jpg</picture>
+        <store>false</store>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <local_delivery_cost>279</local_delivery_cost>
+        <author>Константин Калбазов</author>
+        <name>Кукловод. Книга 3. Князь</name>
+        <publisher>Эксмо</publisher>
+        <series>Новый фантастический боевик</series>
+        <year>2016</year>
+        <ISBN>978-5-699-88814-6</ISBN>
+        <language>Русский</language>
+        <binding>84x108/32</binding>
+        <page_extent>416</page_extent>
+        <description>Весь мир театр, а люди в нем актеры. Для кого как, а для Сергея Шейранова это вовсе не фигура речи. Ведь он – Кукловод, человек способный подселиться в другого и управлять им по своему усмотрению. Впрочем – не по собственному желанию, а по сценарию устроителей реалити-шоу, разворачивающегося в самых разных эпохах. Сначала Шейранов был офицером Особого Кавказского корпуса, в середине девятнадцатого века. Потом принимал участие в первой мировой войне, в начале двадцатого века. И вот теперь век двадцать первый… Человечество, ставшее на грань полного уничтожения, разбилось на мелкие удельные княжества. Ну а коль так, то человек целеустремленный, волевой и решительный, вполне может заполучить собственное княжество. А что? Князь, звучит гордо…</description>
+        <sales_notes>Быстрая доставка по России. 20 способов оплаты</sales_notes>
+        <manufacturer_warranty>false</manufacturer_warranty>
+        <age unit="year">16</age>
+        <barcode>9785699888146</barcode>
+        <weight>0.310</weight>
+        <dimensions>21.000/14.000/3.000</dimensions>
+        <param name="Тип обложки (Переплет)">Твердый переплет</param>
+        <param name="Тираж">7000</param>
+        <param name="Тип издания">Отдельное издание</param>
+        <param name="Автор">Константин Калбазов</param>
+        <param name="Вес" unit="г">310</param>
+        <param name="Ширина упаковки" unit="мм">140</param>
+        <param name="Высота упаковки" unit="мм">30</param>
+        <param name="Глубина упаковки" unit="мм">210</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
